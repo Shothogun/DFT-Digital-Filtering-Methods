@@ -10,3 +10,5 @@ At this simple script, a music sample is filtered over 3 DFT filtering methods p
 
 The output signals from each method is then plot and saved as a audio file to observe the practical result from the filtering and compare the similarity expected from each signal(since each method is a diffent approach to a DFT filtering)
 
+Enjoy and have fun with the code! =D
+Any feedbacks and bugs found, please get in contact! 
